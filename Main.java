@@ -33,7 +33,7 @@ public class Main {
 		     }
 		  }
 		
-		System.out.println("you have taken "+count+" tries");
+		System.out.println("you have taken "+count+" tries to find the random number");
 	
       	
 
